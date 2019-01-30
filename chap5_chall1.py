@@ -1,0 +1,1 @@
+likes = ['Chiaki', 'nano', 'PPP']
